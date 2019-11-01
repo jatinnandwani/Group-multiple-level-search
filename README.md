@@ -1,2 +1,4 @@
-# Group-multiple-level-search
-Group multiple search in a single dropdown using angular material
+# customised-group-levels-in-single-dropdown
+
+
+![alt text](https://github.com/jatinnandwani/customised-owl-carousel-in-angular8/blob/master/yourImages/multiple-group-dropdown.png)
